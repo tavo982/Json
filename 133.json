@@ -1,0 +1,608 @@
+[
+	{
+		"id": 1655367,
+		"title": "Spellbound",
+		"description": "Spider-Man and Iron Man face off against the trickster, Loki, and his mind-controlling scepter.",
+		"image": "/fINWmbHIO99JivGoov5EM05GDGW.jpg",
+		"duration": "00:01:44",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 1,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655367,
+		"origin": "https://cdn.nomercy.tv",
+		"uuid": "853241655367",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E01/Marvel.Funko.Shorts.S01E01.Spellbound.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E01/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E01/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E01/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E01/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655368,
+		"title": "Bait 'n' Switch",
+		"description": "Rocket breaks into the Collector’s museum to try and set his buddy, Groot, free.",
+		"image": "/u4cbdKc3EQ49DdtYHFAtcITdJGX.jpg",
+		"duration": "00:01:40",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 2,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655368,
+		"uuid": "853241655368",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E02/Marvel.Funko.Shorts.S01E02.Bait.n.Switch.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E02/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E02/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E02/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E02/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655369,
+		"title": "Chimichangas",
+		"description": "Deadpool is pitted against Venom.",
+		"image": "/1X7mUB6v7hRA1EwN7zboFlAD3rJ.jpg",
+		"duration": "00:01:40",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 3,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655369,
+		"uuid": "853241655369",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E03/Marvel.Funko.Shorts.S01E03.Chimichangas.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E03/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E03/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E03/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E03/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655370,
+		"title": "Cosmic Sleigh Ride",
+		"description": "The Collector sends Taserface to re-capture Groot for his collection and ends up on a slippery snow chase on a frozen alien planet with Groot & Star-Lord.",
+		"image": "/ywYKP3RnV9bYFiBY4P8o4J0iTn8.jpg",
+		"duration": "00:01:48",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 4,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655370,
+		"uuid": "853241655370",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E04/Marvel.Funko.Shorts.S01E04.Cosmic.Sleigh.Ride.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E04/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E04/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E04/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E04/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655371,
+		"title": "Mjolnir Mischief",
+		"description": "Marvel and Funko have partnered to create another animated short!",
+		"image": "/hHmFVuML9PKok9vULDucP2YZVV3.jpg",
+		"duration": "00:01:46",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 5,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655371,
+		"uuid": "853241655371",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E05/Marvel.Funko.Shorts.S01E05.Mjolnir.Mischief.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E05/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E05/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E05/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E05/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655372,
+		"title": "Tick Tick Smash!",
+		"description": "Hulk and Black Widow get out of a sticky situation in our latest Marvel Animated Short!",
+		"image": "/5RfKR3N7uTT1UCHeTDp09CUqI8R.jpg",
+		"duration": "00:01:47",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 6,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655372,
+		"uuid": "853241655372",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E06/Marvel.Funko.Shorts.S01E06.Tick.Tick.Smash.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E06/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E06/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E06/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E06/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655373,
+		"title": "Time to Unwind",
+		"description": "Loki and Doctor Strange star in our latest animated short with Marvel, Time to Unwind!",
+		"image": "/5EFTXMoQ2R5ufRGwId8vwS2XMoF.jpg",
+		"duration": "00:01:47",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 7,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655373,
+		"uuid": "853241655373",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E07/Marvel.Funko.Shorts.S01E07.Time.to.Unwind.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E07/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E07/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E07/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E07/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655374,
+		"title": "Submarine Showdown",
+		"description": "Something's lurking under the sea! Red Skull and Captain America star in our latest Marvel Animated Short!",
+		"image": "/4PTXiePkTv8LAftZfysAUlfCMWS.jpg",
+		"duration": "00:01:47",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 8,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655374,
+		"uuid": "853241655374",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E08/Marvel.Funko.Shorts.S01E08.Submarine.Showdown.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E08/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E08/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E08/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E08/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655375,
+		"title": "Big Robot, Little Problem",
+		"description": "Ant-Man faces the Hulkbuster in our next Marvel animated short is here!",
+		"image": "/jRDQjeMPOnWDO45DmsqvoR2dUN0.jpg",
+		"duration": "00:01:48",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 9,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655375,
+		"uuid": "853241655375",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E09/Marvel.Funko.Shorts.S01E09.Big.Robot.Little.Problem.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E09/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E09/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E09/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E09/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655376,
+		"title": "Rooftop Rock!",
+		"description": "Spider-Gwen rocks out with Venom in our new Marvel animated short, Rooftop Rock!",
+		"image": "/tiuKwDi5RPL1aNwO7Vl5iEtHdhn.jpg",
+		"duration": "00:01:48",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 10,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655376,
+		"uuid": "853241655376",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E10/Marvel.Funko.Shorts.S01E10.Rooftop.Rock.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E10/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E10/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E10/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E10/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	},
+	{
+		"id": 1655377,
+		"title": "Magnet Mayhem",
+		"description": "Spider-Man teams up with Iron Man to take on Vulture in a new Funko and Marvel animated short that debuted at SDCC!",
+		"image": "/fpL5zYbYIgPb2lTZd39I9GJtGQ.jpg",
+		"duration": "00:01:48",
+		"poster": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"backdrop": "/1BZOjJ2qQVxyVwUFZfbCv6N6Dhn.jpg",
+		"season_image": "/fdc2OR56WpFltFgJ4PsaNB6Yj1c.jpg",
+		"year": "2016",
+		"video_type": "tv",
+		"tmdbid": 85324,
+		"production": true,
+		"season": 1,
+		"episode": 11,
+		"season_title": "Season 1",
+		"origin": "https://cdn.nomercy.tv",
+		"season_overview": "",
+		"season_id": 115091,
+		"episode_id": 1655377,
+		"uuid": "853241655377",
+		"show": "Marvel Funko Shorts",
+		"playlist_type": "tv",
+		"playlist_id": 85324,
+		"logo": "/kE1g63ZEc4rBU8ww7nyhMLCU2mE.png",
+		"rating": "AL",
+		"progress": null,
+		"textTracks": [],
+		"fonts": [],
+		"fontsfile": "",
+		"sources": [
+			{
+				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E11/Marvel.Funko.Shorts.S01E11.Magnet.Mayhem.NoMercy.mp4",
+				"type": "video/mp4"
+			}
+		],
+		"tracks": [
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E11/previews.vtt",
+				"kind": "thumbnails"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E11/chapters.vtt",
+				"kind": "chapters"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E11/sprite.webp",
+				"kind": "sprite"
+			},
+			{
+				"file": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E11/fonts.json",
+				"kind": "fonts"
+			}
+		]
+	}
+]
