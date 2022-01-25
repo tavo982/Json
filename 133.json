@@ -15,11 +15,11 @@
 		"season": 1,
 		"episode": 1,
 		"season_title": "Season 1",
-		"origin": "https://cdn.nomercy.tv",
+		"origin": "http://content.bitsontherun.com",
 		"season_overview": "",
 		"season_id": 115091,
 		"episode_id": 1655367,
-		"origin": "https://cdn.nomercy.tv",
+		"origin": "http://content.bitsontherun.com",
 		"uuid": "853241655367",
 		"show": "Marvel Funko Shorts",
 		"playlist_type": "tv",
@@ -32,7 +32,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E01/Marvel.Funko.Shorts.S01E01.Spellbound.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -87,7 +87,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E02/Marvel.Funko.Shorts.S01E02.Bait.n.Switch.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -142,7 +142,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E03/Marvel.Funko.Shorts.S01E03.Chimichangas.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -197,7 +197,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E04/Marvel.Funko.Shorts.S01E04.Cosmic.Sleigh.Ride.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -252,7 +252,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E05/Marvel.Funko.Shorts.S01E05.Mjolnir.Mischief.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -307,7 +307,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E06/Marvel.Funko.Shorts.S01E06.Tick.Tick.Smash.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -362,7 +362,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E07/Marvel.Funko.Shorts.S01E07.Time.to.Unwind.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -417,7 +417,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E08/Marvel.Funko.Shorts.S01E08.Submarine.Showdown.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -472,7 +472,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E09/Marvel.Funko.Shorts.S01E09.Big.Robot.Little.Problem.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -527,7 +527,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E10/Marvel.Funko.Shorts.S01E10.Rooftop.Rock.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
@@ -582,7 +582,7 @@
 		"fontsfile": "",
 		"sources": [
 			{
-				"src": "/Media/TV.Shows/TV.Shows/Marvel.Funko.Shorts.(2016)/Marvel.Funko.Shorts.S01E11/Marvel.Funko.Shorts.S01E11.Magnet.Mayhem.NoMercy.mp4",
+				"src": "/videos/lWMJeVvV-364767.mp4",
 				"type": "video/mp4"
 			}
 		],
